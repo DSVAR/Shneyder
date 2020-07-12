@@ -1,4 +1,4 @@
-﻿using Shneyder.scripts;
+﻿
 using System;
 
 namespace Shneyder
@@ -8,8 +8,8 @@ namespace Shneyder
         
         static void Main(string[] args)
         {
-            MainMenu.maiMenu();
 
+            MainMenu.maiMenu();
 
         } 
                 
